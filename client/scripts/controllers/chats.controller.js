@@ -18,3 +18,10 @@ function remove (chat) {
     this.data.remove(chat);
   }
 }
+
+//import { Controller } from '../entities';
+// 
+//export default class ChatsCtrl extends Controller {
+//}
+// 
+//ChatsCtrl.$inject = ['$scope'];
